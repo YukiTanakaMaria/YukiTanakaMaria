@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hello world, I'm Yuki Tanaka ✨
 
-<!--
-**YukiTanakaMaria/YukiTanakaMaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-🔭 I'm currently working on: **interactive data art installations for museums**
+-🌱 I'm currently learning: **Three.js & WebGL shaders**
+-👯 I'm looking to collaborate on: **creative coding projects and generative art**
+-🤔 I'm looking for help with: **performance optimization for WebGL on mobile**
+-💬 Ask me about: **CSS, JavaScript, SVG animation, p5.js, creative coding**
+-📫 How to reach me: **yuki.tanaka@creative.dev** · [CodePen](https://codepen.io/yukit)
+-😄 Pronouns: she/her
+-⚡ Fun fact: I make generative art every day — you can see 365 days of sketches on my profile
 
-Here are some ideas to get you started:
+🛠 Tech Stack: `JavaScript` `TypeScript` `Three.js` `p5.js` `GSAP` `SVG`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats: ![Yuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukitanaka-art&show_icons=true&theme=radical)
